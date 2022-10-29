@@ -1,9 +1,10 @@
-preview
 <h1 align="center">Hi 👋, I'm Abdallah Hisham</h1>
 <h3 align="center">Flutter Developer && Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h3x007&label=Profile%20views&color=0e75b6&style=flat" alt="h3x007" /> </p>
 
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+  
 <p align="left"> <a href="https://twitter.com/abdallhnahal" target="blank"><img src="https://img.shields.io/twitter/follow/abdallhnahal?logo=twitter&style=for-the-badge" alt="abdallhnahal" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
